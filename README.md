@@ -1,2 +1,15 @@
-# Practice_py001
-Python Practice Project [ 001 ]
+# Python Practice Project - 001
+파이썬 연습을 위한 개인 작업물입니다.
+
+## YoonYear
+연도를 입력하면 윤년, 평년 여부를 출력합니다.
+* 음수를 입력하면 오류를 발생하는 예외 처리가 필요함
+
+## ListLength
+제시된 리스트 내에서 5글자인 단어만 리스트 형식으로 출력합니다.
+
+## ListHolZZak
+제시된 리스트의 숫자의 홀수와 짝수를 판별하여 출력합니다.
+
+## GradeCalc
+100점 만점의 (정수형) 성적을 입력하면 A+~F의 성적을 출력합니다.
